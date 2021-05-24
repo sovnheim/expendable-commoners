@@ -1,0 +1,9 @@
+{
+    "name": "expendable-commoners",
+    "title": "Sovnheim's Expendable Commoners",
+    "description": "A simple and efficient Commoner generator that your murderhobo players can murder at will",
+    "version": "0.1.0",
+    "author": "sovnheim",
+    "minimumCoreVersion": "0.5.0",
+    "scripts": ["scripts/index.js"]
+}
